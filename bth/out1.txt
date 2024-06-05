@@ -1,0 +1,6 @@
+- so lon nhat la 2
+- so be nhat la : 2
+- nnghiem cua phuong trinh2x^2 + 2x + 4 = 0 la :
+  + nghiem thuc
+- xet 3 so a, b, c bat ky ta thay : 
++ a, b, c khong phai la 3 canh cua tam giac

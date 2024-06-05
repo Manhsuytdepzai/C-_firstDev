@@ -1,0 +1,3 @@
+nghiem cua phuong trinh1x^2 + 1x + -2 = 0 la
+ nghiem la x1=-1.86603
+ nghiem la x2=-0.133975
